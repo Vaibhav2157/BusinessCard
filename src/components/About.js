@@ -3,7 +3,7 @@ import React from "react"
 export default function About(){
     return(
         <div>
-            <img className="img--css" src="https://lh5.googleusercontent.com/cGbUCsT-eaBwpXV4uD63ff1ixZQKtNZAqTQ_W83ge3OgCm-S24cvHBj9_LBC6RgtgZI=w2400" />
+            <img className="img--css" src="https://lh5.googleusercontent.com/cGbUCsT-eaBwpXV4uD63ff1ixZQKtNZAqTQ_W83ge3OgCm-S24cvHBj9_LBC6RgtgZI=w2400" alt=""/>
 
             <h1 id="info">Vaibhav Desale</h1>
             <h3>Frontend Developer</h3> 
@@ -11,7 +11,7 @@ export default function About(){
 
             <div id="disp">
                 <button id="first" type="button">Email</button>
-                <a href="https://www.linkedin.com/in/vaibhav-desale-307615224/"><button id="second" type="button">Linkedin</button></a>
+                <a href="https://www.linkedin.com/in/vaibhav-desale-307615224/" style={{textDecoration : 'none'}} target="blank"><button id="second" type="button">Linkedin</button></a>
                 
             </div>
 
