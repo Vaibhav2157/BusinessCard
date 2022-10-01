@@ -10,7 +10,7 @@ export default function About(){
             <h4>vaibhavd.website</h4>
 
             <div id="disp">
-               <a href="https://vaibhavdesale103@gmail.com"> <button id="first" type="button">Email</button></a>
+                <button id="first" type="button">Email</button>
                 <a href="https://www.linkedin.com/in/vaibhav-desale-307615224/"><button id="second" type="button">Linkedin</button></a>
                 
             </div>
